@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/call_baseline_call_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_notes_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_smartphone_24.xml" value="0.1085" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/call_fragment.xml" value="0.1671195652173913" />
+        <entry key="app/src/main/res/layout/contact_fragment.xml" value="0.1671195652173913" />
+        <entry key="app/src/main/res/layout/contactsrecyclerviewadapter.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/posts.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/postsrecyclerviewadapter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/recyclerviewadapter.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/users_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/usersrecyclerviewadapter.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
